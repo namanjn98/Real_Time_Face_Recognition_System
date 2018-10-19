@@ -13,17 +13,17 @@ How To
   - Fnmatch
   
 - Clone the repository
-```git clone https://github.com/namanjn98/Real_Time_Face_Recognition_System ```
+  - ```git clone https://github.com/namanjn98/Real_Time_Face_Recognition_System ```
 
 - Change directory to Real_Time_Face_Recognition_System
 
 - Train the model
-```python train.py $your_name$```
+  - ```python train.py $your_name$```
 
-Tap 'Space' to click photos (Atleast 5)
-Tap 'Esc' to exit the camera window
+  - Tap 'Space' to click photos (Atleast 5) 
+  - Tap 'Esc' to exit the camera window
 
 - Run the system 
-```python main.py```
+  - ```python main.py```
 
-Tap 'Esc' to exit
+  - Tap 'Esc' to exit
