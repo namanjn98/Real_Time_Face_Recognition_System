@@ -20,10 +20,10 @@ How To
 - Train the model
   - ```python train.py $your_name$```
 
-  - Tap 'Space' to click photos (Atleast 5) 
-  - Tap 'Esc' to exit the camera window
+    - Tap 'Space' to click photos (Atleast 5) 
+    - Tap 'Esc' to exit the camera window
 
 - Run the system 
   - ```python main.py```
 
-  - Tap 'Esc' to exit
+    - Tap 'Esc' to exit
