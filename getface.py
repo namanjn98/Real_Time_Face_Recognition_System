@@ -20,7 +20,7 @@ def getface(myname):                        #Getting face from an image
     			img_root = root + name
     			img = cv2.imread(img_root)
     			gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)         #Color to B&W
-    			faces = face_cascade.detectMultiScale(gray, 1.3, 5)  #Detecting faces, scalefactor - 1.3, neighbours - 5
+    			faces = face_cascade.detectMultiScale(gray, 1.2, 5)  #Detecting faces, scalefactor - 1.3, neighbours - 5
 
     			for (x,y,w,h) in faces:
     				face_img = img[y+5:y+h-5,x+5:x+w-5]            #Cropping face image
