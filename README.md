@@ -33,6 +33,8 @@ Demo
 
 References
 ======
-- https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=139758
-- 
+- - Turk, Matthew A., and Alex P. Pentland. "Face recognition using eigenfaces."  Computer Vision and Pattern Recognition, 1991. Proceedings CVPR'91., IEEE Computer Society Conference on . IEEE, 1991.
+- http://www.vision.jhu.edu/teaching/vision08/Handouts/case_study_pca1.pdf
+- https://medium.com/@devalshah1619/face-recognition-using-eigenfaces-technique-f221d505d4f7
+- http://didawiki.cli.di.unipi.it/lib/exe/fetch.php/mcl/1992_turk_eigenfaces_for_recognition.pdf
 
