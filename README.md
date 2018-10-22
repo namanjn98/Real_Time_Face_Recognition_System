@@ -30,6 +30,7 @@ How To
 
 Demo
 ======
+image = demo.png
 
 References
 ======
