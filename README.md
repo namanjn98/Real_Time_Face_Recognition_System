@@ -30,7 +30,7 @@ How To
 
 Demo
 ======
-![Screenshot](/master/demo.png)
+![Screenshot](demo.png)
 
 References
 ======
