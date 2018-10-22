@@ -30,7 +30,7 @@ How To
 
 Demo
 ======
-image = demo.png
+.. image:: demo.png
 
 References
 ======
